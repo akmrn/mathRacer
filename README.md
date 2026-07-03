@@ -5,10 +5,10 @@ There are lots of ways to make a game. The simplest way is to use a game engine 
 <br />
 SDL stands for Simple DirectMedia Layer.
 In simple terms: it’s a C library that helps you make games and multimedia apps by handling things like:
-•	creating windows
-•	drawing graphics
-•	reading keyboard/mouse/gamepad input
-•	playing sound
+-	creating windows
+-	drawing graphics
+-	reading keyboard/mouse/gamepad input
+-	playing sound
 So instead of talking directly to Windows/Linux/macOS APIs, you use SDL3 as a simpler cross-platform layer.
 <br />
 I had no clue where to start, so I searched everywhere, but everything was still super blurry. Their official docs had tutorials and examples, but they just didn’t click for a complete newbie like me. Sure, there’s tons of info out there for version 2, but I’m dead set on using the latest version—I want the real deal<br />
