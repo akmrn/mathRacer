@@ -5,12 +5,12 @@
 #include <iostream>
 #include <string>
 
-#include "Player.h"
-#include "MathBox.h"
-#include "Background.h"
-#include "constants.h"
-#include "menu.h"
-#include "AudioManager.h"
+#include "include/Player.h"
+#include "include/MathBox.h"
+#include "include/Background.h"
+#include "include/constants.h"
+#include "include/Menu.h"
+#include "include/AudioManager.h"
 
 void renderText(SDL_Renderer* renderer,
                 TTF_Font* font,

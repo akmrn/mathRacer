@@ -1,5 +1,4 @@
-#include "menu.h"
-#include <iostream>
+#include "include/Menu.h"
 
 Menu::Menu(SDL_Renderer* renderer) {
     font = TTF_OpenFont("fonts/Bitcount.ttf", 38);

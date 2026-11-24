@@ -1,7 +1,7 @@
-#include "Background.h"
+#include "include/Background.h"
 
-#include <SDL3_image/SDL_image.h>
 #include <iostream>
+#include <SDL3_image/SDL_image.h>
 
 Background::Background(SDL_Renderer* renderer,
                        const char* texturePath,

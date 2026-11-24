@@ -1,7 +1,7 @@
-#include "Player.h"
+#include "../include/Player.h"
 
-#include <SDL3_image/SDL_image.h>
 #include <iostream>
+#include <SDL3_image/SDL_image.h>
 #include <cmath>
 
 Player::Player(SDL_Renderer* renderer,
